@@ -1,0 +1,9 @@
+div{
+    display: flex;
+}
+.main-body {
+    flex-direction: column;
+}
+ul {
+    display: flex;
+}
