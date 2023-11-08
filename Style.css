@@ -17,5 +17,16 @@ body{
 }
 
 .Header {
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.intro{
+
+}
+.quote{
+
+}
+.sign-up{
     
 }
