@@ -22,11 +22,22 @@ body{
 }
 
 .intro{
-
+    justify-content: center;
 }
 .quote{
 
 }
-.sign-up{
+.action{
+    
+}
+.text-button{
+    flex-direction: column;
+}
+
+#B1{
+
+}
+
+#B2{
     
 }
