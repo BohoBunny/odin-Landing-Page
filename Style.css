@@ -42,11 +42,21 @@ body{
     align-items: center;
 }
 #B1{
-
+    width: 216px;
+    height: 56px;
+    font-size: 30px;
+    color: snow;
+    text-align: center;
+    background-color: mintcream;
 }
 
 #B2{
-    
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+    align-self: center;
+    color: snow;
+    background-color: whitesmoke;
 }
 
 #Img1,#Img2,#Img3,#Img4{
