@@ -55,3 +55,6 @@ body{
 #Img5{
     width: 30%;
 }
+.image-container {
+    justify-content: space-evenly;
+}
