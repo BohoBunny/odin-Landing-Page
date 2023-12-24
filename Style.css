@@ -31,6 +31,13 @@ body{
     justify-content: center;
 }
 .action{
+    justify-content: space-evenly;
+    width: 800px;
+    align-self: center;
+    height: 90px;
+    padding: 20px;
+    background: cornflowerblue;
+    color: white;
     
 }
 .text-button{
