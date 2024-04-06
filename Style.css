@@ -38,7 +38,7 @@ body{
     
 }
 .sub{
-    
+
 }
 
 .quote{
@@ -90,6 +90,9 @@ body{
     align-self: center;
     color: snow;
     background-color: whitesmoke;
+}
+#random{
+    
 }
 
 #Img1,#Img2,#Img3,#Img4{
