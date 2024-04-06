@@ -92,7 +92,13 @@ body{
 }
 
 #testimonial{
-
+    font-size: 36px;
+    font-style: italic;
+    width: 1000px;
+    align-self: center;
+    line-height: 1.2;
+    color: #1F2937;
+    margin-bottom: 5px
 }
 
 #thunder{
