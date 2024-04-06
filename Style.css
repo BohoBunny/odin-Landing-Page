@@ -30,6 +30,7 @@ body{
 }
 .footer {
     justify-content: center;
+    height: 50px;
 }
 .action{
     justify-content: space-evenly;
