@@ -33,6 +33,11 @@ body{
     height: 300px;
     flex-direction: column;
 }
+.card {
+    height: 300px;
+    justify-content: center;
+
+}
 .action{
     justify-content: space-evenly;
     width: 800px;
