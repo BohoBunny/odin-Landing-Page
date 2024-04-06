@@ -29,6 +29,10 @@ body{
     align-items: center;
     height: 300px;
 }
+.image-container {
+    justify-content: space-evenly;
+}
+
 .quote{
     height: 300px;
     flex-direction: column;
@@ -85,7 +89,4 @@ body{
 }
 #Img5{
     width: 30%;
-}
-.image-container {
-    justify-content: space-evenly;
 }
