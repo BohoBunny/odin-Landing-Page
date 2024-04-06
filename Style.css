@@ -102,5 +102,9 @@ body{
 }
 
 #thunder{
-
+    width: 600px;
+    align-self: end;
+    margin-top: 0px;
+    font-size: 24px;
+    color: #1F2937;
 }
