@@ -92,7 +92,10 @@ body{
     background-color: whitesmoke;
 }
 #random{
-    
+    font-size: 36px;
+    font-weight: bolder;
+    margin-bottom: 36px;
+    margin-top: 18px;
 }
 
 #Img1,#Img2,#Img3,#Img4{
