@@ -32,13 +32,13 @@ body{
     height: 300px;
 }
 .image-container {
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     height: 300px;
     justify-content: center;
 }
 .imagec1 .imagec2 .imagec3 .imagec4{
-    
+    flex-direction: column;
 }
 .sub{
 
