@@ -32,6 +32,8 @@ body{
 .quote{
     height: 300px;
     flex-direction: column;
+    background-color: #E5E7EB;
+    justify-content: center;
 }
 .card {
     height: 300px;
