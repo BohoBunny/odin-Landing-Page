@@ -38,6 +38,9 @@ body{
     justify-content: center;
 
 }
+.call{
+    
+}
 .action{
     justify-content: space-evenly;
     width: 800px;
@@ -83,7 +86,4 @@ body{
 }
 .image-container {
     justify-content: space-evenly;
-}
-.call{
-    
 }
