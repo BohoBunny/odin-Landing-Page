@@ -103,9 +103,10 @@ body{
 }
 
 #Img1,#Img2,#Img3,#Img4{
-    width: 40%;
+    width: 55%;
     border: 5px solid cornflowerblue;
     border-radius: 10px;
+    height: 111.22px;
 }
 #Img5{
     width: 30%;
