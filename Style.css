@@ -35,7 +35,8 @@ body{
 .image-container {
     flex-direction: row;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
+    width: 100%;
 }
 .imagec1,.imagec2,.imagec3,.imagec4{
     flex-direction: column;
