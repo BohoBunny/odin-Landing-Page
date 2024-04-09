@@ -84,6 +84,10 @@ body{
     height: 50px;
 }
 
+#hlogo{
+    font-size: 24px;
+}
+
 #B1{
     width: 216px;
     height: 56px;
