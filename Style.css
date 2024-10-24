@@ -94,10 +94,12 @@ li{
     height: 50px;
 }
 
-#websome{
+#websome {
     font-size: 48px;
     font-weight: 800;
     color: #F9FAF8;
+    width: 400px;
+    margin: inherit;
 
 }
 
