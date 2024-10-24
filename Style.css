@@ -105,22 +105,26 @@ li{
 
 #hlogo{
     font-size: 24px;
+    color: #f9faf8;
+    width: 325px;
+    text-align: center;
 }
 
 #P1{
     color: #FFFF;
     font-size: medium;
+    width: 600px;
 }
 
 #B1{
     width: 130px;
-    height: 40px;
     font-size: 18px;
     color: ivory;
     text-align: center;
     background-color: blue;
     border-radius: 15px;
     border: blue;
+    padding: 0px;
 }
 
 #B2{
