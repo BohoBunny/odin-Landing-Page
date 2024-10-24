@@ -83,13 +83,22 @@ li{
     color: white;
     
 }
+
 .text-button{
     flex-direction: column;
     justify-content:space-evenly;
 }
+
 .footer {
     justify-content: center;
     height: 50px;
+}
+
+#websome{
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+
 }
 
 #hlogo{
@@ -97,12 +106,14 @@ li{
 }
 
 #B1{
-    width: 216px;
-    height: 56px;
-    font-size: 30px;
-    color: snow;
+    width: 130px;
+    height: 40px;
+    font-size: 18px;
+    color: ivory;
     text-align: center;
-    background-color: mintcream;
+    background-color: blue;
+    border-radius: 15px;
+    border: blue;
 }
 
 #B2{
