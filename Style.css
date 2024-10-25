@@ -133,12 +133,16 @@ li{
 }
 
 #B2{
-    height: 50px;
+    height: 30px;
     width: 100px;
-    font-size: 20px;
+    font-size: medium;
     align-self: center;
-    color: snow;
-    background-color: whitesmoke;
+    color: white;
+    background-color: cornflowerblue;
+    border-style: solid;
+    border-width: thin;
+    border-color: white;
+    border-radius: 6px;
 }
 #random{
     font-size: 36px;
