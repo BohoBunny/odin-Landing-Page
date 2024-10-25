@@ -71,7 +71,8 @@ li{
 
 }
 .call{
-    
+    flex-direction: column;
+    justify-content: center;
 }
 .action{
     justify-content: space-evenly;
