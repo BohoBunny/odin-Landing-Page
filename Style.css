@@ -74,6 +74,7 @@ li{
     flex-direction: column;
     justify-content: center;
 }
+
 .action{
     justify-content: space-evenly;
     width: 800px;
@@ -174,4 +175,12 @@ li{
     margin-top: 0px;
     font-size: 24px;
     color: #1F2937;
+}
+
+#time{
+    margin: 0px;
+}
+
+#Click{
+    margin: 0px;
 }
