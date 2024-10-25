@@ -92,6 +92,8 @@ li{
 .footer {
     justify-content: center;
     height: 50px;
+    background-color: #1F2937;
+    color: #F9FAF8;
 }
 
 #websome {
