@@ -108,8 +108,9 @@ li{
     font-weight: 800;
     color: #F9FAF8;
     width: 400px;
-    margin: inherit;
     font-family: sans-serif;
+    margin: 0px;
+    padding-left: 5px;
 
 }
 
