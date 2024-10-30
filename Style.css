@@ -123,10 +123,11 @@ li{
 }
 
 #P1{
-    color: #FFFF;
-    font-size: medium;
-    width: 600px;
+    color: #e5e7eb;
+    font-size: 18px;
+    width: 400px;
     margin: 5px;
+    font-family: sans-serif;
 }
 
 #B1{
