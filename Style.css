@@ -134,10 +134,12 @@ li{
     font-size: 18px;
     color: ivory;
     text-align: center;
-    background-color: blue;
-    border-radius: 15px;
-    border: blue;
-    padding: 0px;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    border: cornflowerblue;
+    height: 35px;
+    margin-top: 5px;
+    margin-left: 5px;
 }
 
 #B2{
